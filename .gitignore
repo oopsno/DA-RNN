@@ -6,3 +6,5 @@
 *.o
 output/*
 lib/icp/icp_main.cpp
+3rd/build
+3rd/artifact
