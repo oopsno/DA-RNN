@@ -1,0 +1,15 @@
+[submodule "Pangolin"]
+	path = 3rd/Pangolin
+	url = https://github.com/stevenlovegrove/Pangolin.git
+[submodule "Eigen"]
+	path = 3rd/eigen
+	url = https://github.com/RLovelett/eigen.git
+[submodule "Sophus"]
+	path = 3rd/Sophus
+	url = https://github.com/strasdat/Sophus.git
+[submodule "nanoflann"]
+	path = 3rd/nanoflann
+	url = https://github.com/jlblancoc/nanoflann.git
+[submodule "suitesparse"]
+	path = 3rd/SuiteSparse
+	url = https://github.com/jlblancoc/suitesparse-metis-for-windows.git
